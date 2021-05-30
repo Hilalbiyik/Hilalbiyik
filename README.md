@@ -16,7 +16,7 @@
 <a href="https://medium.com/@hilalbiyik">
 <img width="30px" src="https://user-images.githubusercontent.com/77548014/120103263-7db10200-c157-11eb-8a87-0f8fa78c1ca0.png"></a>
 
-<br><br>
+<br>
 
 ### Languages & Tools : 
 
@@ -43,8 +43,11 @@
 <br><br><br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilalbiyik&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilalbiyik&layout=compact&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=your-github-Hilalbiyik&color=ff69b4)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilalbiyik&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilalbiyik&layout=compact&theme=dracula)
+
 
 
 
