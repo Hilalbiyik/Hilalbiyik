@@ -41,8 +41,11 @@
 <a href="https://www.eclipse.org/downloads/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120105218-b1445a00-c160-11eb-9e40-d6b8ced0caa5.jpg"></a>
 
+<a href="https://www.jetbrains.com/idea/">
+<img width="40px" src="https://user-images.githubusercontent.com/77548014/126068816-5342d37b-18c5-4618-b033-b2ac3685a0d4.png"></a>
+
 <a href="https://www.codeblocks.org/">
-<img width="60px" src="https://user-images.githubusercontent.com/77548014/126068310-a537b826-7498-4182-ad2f-f723c2a23e93.jpg"></a>
+<img width="37px" src="https://user-images.githubusercontent.com/77548014/126068755-1d2d0025-9567-4f1e-a09c-12cceb6f6cc7.jpg"></a>
 
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019">
 <img width="45px" src="https://user-images.githubusercontent.com/77548014/120105130-4e52c300-c160-11eb-8c5b-2eac438c560a.jpg"></a>
