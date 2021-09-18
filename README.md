@@ -32,6 +32,9 @@
 <a href="https://www.w3schools.com/html/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103994-fbc2d800-c15a-11eb-96dc-15be2b448342.png"></a>
 
+<a href="https://www.w3schools.com/css/">
+<img width="28px" src="https://user-images.githubusercontent.com/77548014/133878838-d900d708-9617-4c08-95f4-79c5dab997e2.png"></a>
+
 <a href="https://visualstudio.microsoft.com/tr/vs/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103599-11370280-c159-11eb-9998-118ef0688d4f.png"></a>
 
