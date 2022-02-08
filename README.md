@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/hilalbıyık/">
 <img width="30px" src="https://user-images.githubusercontent.com/77548014/120102397-75ef5e80-c153-11eb-8311-26e421bcc5bd.png"></a>
 
-<a href="https://www.instagram.com/hilalbiyikk/">
-<img width="30px" src="https://user-images.githubusercontent.com/77548014/120102637-a1267d80-c154-11eb-8954-2521fcaddbcb.png"></a>
+<!--<a href="https://www.instagram.com/hilalbiyikk/">
+<img width="30px" src="https://user-images.githubusercontent.com/77548014/120102637-a1267d80-c154-11eb-8954-2521fcaddbcb.png"></a>-->
 
 <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=DmwnWsLPtkRvHGfTNtFXMcxqmrjXKSGZJshWcmmmmdzwMDdxTglFRbhkznSXGMDpfMnCzkhBShFq">
 <img width="30px" src="https://user-images.githubusercontent.com/77548014/120102714-0da17c80-c155-11eb-85c1-fcb6f3b1c25e.png"></a>
