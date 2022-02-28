@@ -27,9 +27,6 @@
 <a href="https://www.w3schools.com/cs/">
 <img width="45px" src="https://user-images.githubusercontent.com/77548014/120104452-244bd180-c15d-11eb-8a3b-f8d4f8efa44c.jpg"></a>
 
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm">
-<img width="40px" src="https://user-images.githubusercontent.com/77548014/126068517-889e5f93-0e5d-40f3-bc99-b382d3caefc2.png"></a>
-
 <a href="https://www.java.com/tr/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103876-6a536600-c15a-11eb-9351-03a4a9ee9dc2.png"></a>
 
@@ -50,9 +47,6 @@
 
 <a href="https://www.jetbrains.com/idea/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/126068816-5342d37b-18c5-4618-b033-b2ac3685a0d4.png"></a>
-
-<a href="https://www.codeblocks.org/">
-<img width="37px" src="https://user-images.githubusercontent.com/77548014/126068755-1d2d0025-9567-4f1e-a09c-12cceb6f6cc7.jpg"></a>
 
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019">
 <img width="45px" src="https://user-images.githubusercontent.com/77548014/120105130-4e52c300-c160-11eb-8c5b-2eac438c560a.jpg"></a>
