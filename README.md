@@ -27,6 +27,8 @@
 <a href="https://www.w3schools.com/cs/">
 <img width="45px" src="https://user-images.githubusercontent.com/77548014/120104452-244bd180-c15d-11eb-8a3b-f8d4f8efa44c.jpg"></a>
 
+
+
 <a href="https://www.java.com/tr/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103876-6a536600-c15a-11eb-9351-03a4a9ee9dc2.png"></a>
 
@@ -35,6 +37,9 @@
 
 <a href="https://www.w3schools.com/css/">
 <img width="28px" src="https://user-images.githubusercontent.com/77548014/133878838-d900d708-9617-4c08-95f4-79c5dab997e2.png"></a>
+   
+<a href="https://www.w3schools.com/js/">
+<img width="28px" src="https://user-images.githubusercontent.com/77548014/155946543-fb0dad53-8855-42fb-8524-1a7077bf58e9.png"></a>
 
 <a href="https://visualstudio.microsoft.com/tr/vs/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103599-11370280-c159-11eb-9998-118ef0688d4f.png"></a>
