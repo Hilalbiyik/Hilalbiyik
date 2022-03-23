@@ -20,35 +20,48 @@
 
 ### Languages & Tools : 
 
-
+<!-- 
 <a href="https://flutter.dev/?gclid=Cj0KCQiAxoiQBhCRARIsAPsvo-yPcdSUQBA0v3WR11qhNHI453-19GBWb0TMJmoIo2ESdK7m-Ti8q-MaAkrqEALw_wcB&gclsrc=aw.ds">
-<img width="75px" src="https://user-images.githubusercontent.com/77548014/152994202-9f7ff372-9065-4f7b-b664-d350e212136e.png"></a>
+<img width="75px" src="https://user-images.githubusercontent.com/77548014/152994202-9f7ff372-9065-4f7b-b664-d350e212136e.png"></a> -->
 
-<a href="https://www.w3schools.com/cs/">
-<img width="45px" src="https://user-images.githubusercontent.com/77548014/120104452-244bd180-c15d-11eb-8a3b-f8d4f8efa44c.jpg"></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 
-
-<a href="https://www.java.com/tr/">
-<img width="40px" src="https://user-images.githubusercontent.com/77548014/120103876-6a536600-c15a-11eb-9351-03a4a9ee9dc2.png"></a>
-
+<!-- 
 <a href="https://www.w3schools.com/html/">
-<img width="40px" src="https://user-images.githubusercontent.com/77548014/120103994-fbc2d800-c15a-11eb-96dc-15be2b448342.png"></a>
+<img width="40px" src="https://user-images.githubusercontent.com/77548014/120103994-fbc2d800-c15a-11eb-96dc-15be2b448342.png"></a> -->
 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
+<!-- 
 <a href="https://www.w3schools.com/css/">
-<img width="28px" src="https://user-images.githubusercontent.com/77548014/133878838-d900d708-9617-4c08-95f4-79c5dab997e2.png"></a>
-   
-<a href="https://www.w3schools.com/js/">
-<img width="28px" src="https://user-images.githubusercontent.com/77548014/155946543-fb0dad53-8855-42fb-8524-1a7077bf58e9.png"></a>
+<img width="28px" src="https://user-images.githubusercontent.com/77548014/133878838-d900d708-9617-4c08-95f4-79c5dab997e2.png"></a> -->
 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+
+<a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+   </a>
+   
 <a href="https://visualstudio.microsoft.com/tr/vs/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103599-11370280-c159-11eb-9998-118ef0688d4f.png"></a>
 
 <a href="https://code.visualstudio.com/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120104779-d59f3700-c15e-11eb-8573-24b252c387c0.png"></a>
-
-<a href="https://www.eclipse.org/downloads/">
-<img width="40px" src="https://user-images.githubusercontent.com/77548014/120105218-b1445a00-c160-11eb-9e40-d6b8ced0caa5.jpg"></a>
 
 <a href="https://www.jetbrains.com/idea/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/126068816-5342d37b-18c5-4618-b033-b2ac3685a0d4.png"></a>
@@ -56,6 +69,7 @@
 <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019">
 <img width="45px" src="https://user-images.githubusercontent.com/77548014/120105130-4e52c300-c160-11eb-8c5b-2eac438c560a.jpg"></a>
 <br><br><br>
+
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Hilalbiyik&color=ff69b4)
