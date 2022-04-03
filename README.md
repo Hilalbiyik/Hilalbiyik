@@ -13,8 +13,8 @@
 <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=DmwnWsLPtkRvHGfTNtFXMcxqmrjXKSGZJshWcmmmmdzwMDdxTglFRbhkznSXGMDpfMnCzkhBShFq">
 <img width="30px" src="https://user-images.githubusercontent.com/77548014/120102714-0da17c80-c155-11eb-85c1-fcb6f3b1c25e.png"></a>
 
-<!--<a href="https://medium.com/@hilalbiyik">
-<img width="30px" src="https://user-images.githubusercontent.com/77548014/120103263-7db10200-c157-11eb-8a87-0f8fa78c1ca0.png"></a>-->
+<a href="https://medium.com/@hilalbiyik">
+<img width="30px" src="https://user-images.githubusercontent.com/77548014/120103263-7db10200-c157-11eb-8a87-0f8fa78c1ca0.png"></a>
 
 <br>
 
