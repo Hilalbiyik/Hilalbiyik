@@ -10,7 +10,7 @@
 <!--<a href="https://www.instagram.com/hilalbiyikk/">
 <img width="30px" src="https://user-images.githubusercontent.com/77548014/120102637-a1267d80-c154-11eb-8954-2521fcaddbcb.png"></a>-->
 
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=DmwnWsLPtkRvHGfTNtFXMcxqmrjXKSGZJshWcmmmmdzwMDdxTglFRbhkznSXGMDpfMnCzkhBShFq">
+<a href="mailto:hhilalbiyik@gmail.com">
 <img width="30px" src="https://user-images.githubusercontent.com/77548014/120102714-0da17c80-c155-11eb-85c1-fcb6f3b1c25e.png"></a>
 
 <a href="https://medium.com/@hilalbiyik">
