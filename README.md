@@ -1,6 +1,6 @@
 ### Hi there, I'm Hilal Bıyık👋
 
-- 🔭 I’m Computer Engineer Student
+- 🔭 I’m Computer Engineer
 - 📫 How to reach me : hhilalbiyik@gmail.com
 
 ### Connect with me :
@@ -50,12 +50,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-   </a>
+
    
 <a href="https://visualstudio.microsoft.com/tr/vs/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/120103599-11370280-c159-11eb-9998-118ef0688d4f.png"></a>
@@ -66,10 +61,7 @@
 <a href="https://www.jetbrains.com/idea/">
 <img width="40px" src="https://user-images.githubusercontent.com/77548014/126068816-5342d37b-18c5-4618-b033-b2ac3685a0d4.png"></a>
 
-<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019">
-<img width="45px" src="https://user-images.githubusercontent.com/77548014/120105130-4e52c300-c160-11eb-8c5b-2eac438c560a.jpg"></a>
-<br><br><br>
-
+<br><br>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Hilalbiyik&color=ff69b4)
